@@ -1,1 +1,2 @@
-print(practise)
+print("practise")
+print("repeat practise")
